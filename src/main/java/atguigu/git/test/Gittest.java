@@ -11,5 +11,6 @@ public class Gittest {
         System.out.println("push test");
         System.out.println("push SSH test");
         System.out.println("pull test");
+        github 更新。。。。。
     }
 }
